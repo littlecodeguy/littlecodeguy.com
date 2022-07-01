@@ -25,6 +25,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: littlecodeguy
-          user_email: <username@email.com>
+          user_email: hi@littlecodeguy.com
           publish_branch: gh-pages
         #   cname: example.com
