@@ -21,7 +21,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: littlecodeguy.com/littlecodeguy.github.io
+          external_repository: littlecodeguy/littlecodeguy.com
           publish_dir: ./public
           #   keep_files: true
           user_name: littlecodeguy
