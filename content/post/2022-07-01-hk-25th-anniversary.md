@@ -3,7 +3,7 @@ title: "香港回歸廿五年有冇變？"
 date: 2022-07-01T11:03:47+08:00
 draft: false
 aliases: ["/hk-25th-anniversary"]
-tags: ["Naming Convention", "Typescript"]
+tags: ["Naming Convention", "Typescript", "ShowMeTheCode"]
 author: "Me"
 showToc: true
 TocOpen: false
@@ -25,16 +25,14 @@ UseHugoToc: true
 cover:
     image: "/images/hk-25th-anniversary.ts.png" # image path/url
     alt: "Code screenshot" # alt text
-    caption: "今日係香港大日子，見周圍都好多國旗，紅噹啷咁好喜慶，有感而發想出個 PR 加個新 method 比 HongKong 個 class，順手講下我平時嘅 naming convention， 麻煩大家 review:" # display caption under cover
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/littlecodeguy/littlecodeguy.com/blob/main/content/hk-25th-anniversary.md"
+    URL: "https://github.com/littlecodeguy/littlecodeguy.com/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-今日係香港大日子，見周圍都好多國旗，紅噹啷咁喜慶，有感而發想出個 PR 加個新 method 比 HongKong 個 class，順手講下我平時嘅 naming convention， 麻煩大家 review:
 
 ```typescript
 import HongKong from 'asia/HongKong';
