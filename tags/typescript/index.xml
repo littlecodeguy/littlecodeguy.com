@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Typescript on LittleCodeGuy</title>
     <link>https://littlecodeguy.com/tags/typescript/</link>
     <description>Recent content in Typescript on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Fri, 01 Jul 2022 11:03:47 +0800</lastBuildDate>
-    
-	<atom:link href="https://littlecodeguy.com/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Jul 2022 11:03:47 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>香港回歸廿五年有冇變？</title>
       <link>https://littlecodeguy.com/post/2022-07-01-hk-25th-anniversary/</link>
       <pubDate>Fri, 01 Jul 2022 11:03:47 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/post/2022-07-01-hk-25th-anniversary/</guid>
-      <description>import HongKong from &amp;#39;asia/HongKong&amp;#39;; // constants 用全大階同 underscores const DATE_OF_HANDOVER = new Date(1997, 6, 1); // 1997-07-01T00:00:00.000Z const YEARS_NO_CHANGE = 50; // 說好的50年 const now = new Date(); // 2022-07-01T00:00:00.000Z  // return boolean 可以用 prefix function isHongKongNoChange(date: Date): Boolean { const diffInYear = now.getFullYear() - DATE_OF_HANDOVER.getFullYear(); const withInNoChangePeriod = diffInYear &amp;lt; YEARS_NO_CHANGE; // HongKong class 有 static method 類似 Date 可以 instantize 喺指定時間  const oldHongKong = HongKong.from(DATE_OF_HANDOVER); const nowHongKong = HongKong.</description>
+      <description>今日係香港大日子，見周圍都好多國旗，紅噹啷咁好喜慶，有感而發想出個 PR 加個新 method 比 HongKong 個 class，順手講下我平時嘅 naming convention， 麻煩大家 review:</description>
     </item>
     
   </channel>
