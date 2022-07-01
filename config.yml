@@ -1,0 +1,117 @@
+baseURL: "https://littlecodeguy.com/"
+title: LittleCodeGuy
+languageCode: zh-hk
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: "G-MRQWLR8HRV"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: LittleCodeGuy
+  description: "👨‍💻 曲中作樂 🚀"
+  keywords: [Blog, Portfolio]
+  author: LittleCodeGuy
+  # author: ["Me", "You"] # multiple authors
+  images: ["https://littlecodeguy.com/images/og.png"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "/favicon16x16.png"
+    favicon32x32: "/favicon32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/apple-touch-icon.png"
+
+  label:
+    text: " "
+    icon: /images/logo.png
+    iconDark: /images/logo_dark.png
+    iconHeight: 48
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/littlecodeguy"
+    - name: github
+      url: "https://github.com/littlecodeguy"
+    - name: instagram
+      url: "https://instagram/littlecodeguy"
+    - name: facebook
+      url: "https://facebook.com/littlecodeguy"
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-MRQWLR8HRV"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: "https://github.com/littlecodeguy/littlecodeguy.com/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

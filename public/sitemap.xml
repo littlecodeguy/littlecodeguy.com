@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://littlecodeguy.com/</loc>
+    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/naming-convention/</loc>
+    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/</loc>
+    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/</loc>
+    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/typescript/</loc>
+    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/2022-07-01-hk-25th-anniversary/</loc>
+    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/categories/</loc>
+  </url>
+  
+</urlset>
