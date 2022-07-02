@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Fri, 01 Jul 2022 11:03:47 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jul 2022 11:03:47 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drawing</title>
+      <link>https://littlecodeguy.com/tags/drawing/</link>
+      <pubDate>Sat, 02 Jul 2022 11:03:47 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/tags/drawing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Naming Convention</title>
       <link>https://littlecodeguy.com/tags/naming-convention/</link>
