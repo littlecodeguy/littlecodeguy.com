@@ -27,4 +27,4 @@ jobs:
           user_name: littlecodeguy
           user_email: hi@littlecodeguy.com
           publish_branch: gh-pages
-        #   cname: example.com
+          cname: littlecodeguy.com
