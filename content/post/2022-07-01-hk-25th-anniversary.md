@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "今日係香港大日子，見周圍都好多國旗，紅噹啷咁好喜慶，有感而發想出個 PR 加個新 method 比 HongKong 個 class，順手講下我平時嘅 naming convention， 麻煩大家 review:"
-canonicalURL: "https://littlecodeguy.com/hk-25th-anniversary"
+canonicalURL: "https://littlecodeguy.com/post/hk-25th-anniversary"
 disableShare: false
 disableHLJS: false
 hideSummary: false

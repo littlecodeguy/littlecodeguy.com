@@ -1,0 +1,35 @@
+---
+title: "唔怕比小朋友撞倒？"
+date: 2022-07-02T11:03:47+08:00
+draft: false
+aliases: ["/hk-25th-anniversary"]
+tags: ["Drawing"]
+author: "Me"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "唔怕比小朋友撞倒？"
+canonicalURL: "https://littlecodeguy.com/post/hk-25th-anniversary"
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: "/images/xixi.jpg" # image path/url
+    alt: "Code screenshot" # alt text
+    caption: "" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/littlecodeguy/littlecodeguy.com/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
