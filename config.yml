@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: "G-MRQWLR8HRV"
+googleAnalyticsID: "G-MRQWLR8HRV"
 
 minify:
   disableXML: true
