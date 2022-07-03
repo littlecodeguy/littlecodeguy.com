@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javascript入門 on LittleCodeGuy</title>
+    <link>https://littlecodeguy.com/tags/javascript%E5%85%A5%E9%96%80/</link>
+    <description>Recent content in Javascript入門 on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Sat, 02 Jul 2022 11:03:47 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/javascript%E5%85%A5%E9%96%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript 入門：Continue statement</title>
+      <link>https://littlecodeguy.com/post/2022-07-03-china-term-of-office/</link>
+      <pubDate>Sat, 02 Jul 2022 11:03:47 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-03-china-term-of-office/</guid>
+      <description>Javascript 入門：Continue statement 可以用喺 while / for loop 入面跳到下一個 iteration</description>
+    </item>
+    
+  </channel>
+</rss>
