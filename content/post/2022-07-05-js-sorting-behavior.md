@@ -1,16 +1,16 @@
 ---
-title: "Javascript 入門：Continue statement"
-date: 2022-07-03T11:03:47+08:00
+title: "Javascript中伏記：sorting default behavior"
+date: 2022-07-05T07:00:00+08:00
 draft: false
-tags: ["Javascript入門"]
+tags: ["Javascript中伏記"]
 author: "Me"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Javascript 入門：Continue statement 可以用喺 while / for loop 入面跳到下一個 iteration"
-canonicalURL: "https://littlecodeguy.com/post/2022-07-03-china-term-of-office"
+description: "Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當數字係 string 咁 sort，一不小心好易舐嘢。"
+canonicalURL: "https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/china-term-of-office.js.png" # image path/url
+    image: "/images/sorting-behavior.js.png" # image path/url
     alt: "Code screenshot" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -33,22 +33,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-```typescript
-let termOfOffice = 5; // 5年任期
-let numOfYear = 0;
-let president;
+```javascript
+const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
-while (true) {
-  if (numOfYear % termOfOffice !== 0) {
-    continue; // 未夠期換屆
-  } else {
-	president = getNextPresident(); // 換屆
-  }
-  
-  if (president === '習近平') {
-    termOfOffice = Infinity;
-  }
-  
-  numOfYear++;
-}
+nums.sort();
+// [1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9] 🤯
+
+nums.sort((a, b) => a - b);
+// [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] 😌
 ```
