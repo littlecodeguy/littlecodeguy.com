@@ -33,8 +33,6 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-最近發現 css 有個 property 叫「all」，可以用嚟一次過賦值比所有 element’s properties, 非常適合用嚟 reset element。
-
 ```css
 button {
   all: unset;
