@@ -17,7 +17,7 @@
       <pubDate>Tue, 05 Jul 2022 07:00:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior/</guid>
-      <description>Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當數字係 string 咁 sort，一不小心好易舐嘢。</description>
+      <description>Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當 int 係 string 咁 sort，一不小心好易舐嘢。</description>
     </item>
     
   </channel>
