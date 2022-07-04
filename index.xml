@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Mon, 04 Jul 2022 09:06:16 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript中伏記：sorting default behavior</title>
+      <link>https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior/</link>
+      <pubDate>Tue, 05 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior/</guid>
+      <description>Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當數字係 string 咁 sort，一不小心好易舐嘢。</description>
+    </item>
+    
     <item>
       <title>css 一行 reset 所有 element properties</title>
       <link>https://littlecodeguy.com/post/2022-06-04-how-to-reset-css-in-oneline/</link>
@@ -23,7 +32,7 @@
     <item>
       <title>Javascript 入門：Continue statement</title>
       <link>https://littlecodeguy.com/post/2022-07-03-china-term-of-office/</link>
-      <pubDate>Sat, 02 Jul 2022 11:03:47 +0800</pubDate>
+      <pubDate>Sun, 03 Jul 2022 11:03:47 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/post/2022-07-03-china-term-of-office/</guid>
       <description>Javascript 入門：Continue statement 可以用喺 while / for loop 入面跳到下一個 iteration</description>

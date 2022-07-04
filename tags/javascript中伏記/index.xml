@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javascript中伏記 on LittleCodeGuy</title>
+    <link>https://littlecodeguy.com/tags/javascript%E4%B8%AD%E4%BC%8F%E8%A8%98/</link>
+    <description>Recent content in Javascript中伏記 on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Tue, 05 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/javascript%E4%B8%AD%E4%BC%8F%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript中伏記：sorting default behavior</title>
+      <link>https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior/</link>
+      <pubDate>Tue, 05 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior/</guid>
+      <description>Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當數字係 string 咁 sort，一不小心好易舐嘢。</description>
+    </item>
+    
+  </channel>
+</rss>
