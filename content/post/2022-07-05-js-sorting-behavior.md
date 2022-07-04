@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當數字係 string 咁 sort，一不小心好易舐嘢。"
+description: "Javascript 嘅 Sorting behavior 好有趣，唔比 args 會當 int 係 string 咁 sort，一不小心好易舐嘢。"
 canonicalURL: "https://littlecodeguy.com/post/2022-07-05-js-sorting-behavior"
 disableShare: false
 disableHLJS: false
