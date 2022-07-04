@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSS on LittleCodeGuy</title>
+    <link>https://littlecodeguy.com/tags/css/</link>
+    <description>Recent content in CSS on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Mon, 04 Jul 2022 09:06:16 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css 一行 reset 所有 element properties</title>
+      <link>https://littlecodeguy.com/post/2022-06-04-how-to-reset-css-in-oneline/</link>
+      <pubDate>Mon, 04 Jul 2022 09:06:16 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-06-04-how-to-reset-css-in-oneline/</guid>
+      <description>最近發現 css 有個 property 叫「all」，可以用嚟一次過賦值比所有 element’s properties, 非常適合用嚟 reset element。</description>
+    </item>
+    
+  </channel>
+</rss>

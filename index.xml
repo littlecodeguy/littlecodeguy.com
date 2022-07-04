@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sat, 02 Jul 2022 11:03:47 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 09:06:16 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css 一行 reset 所有 element properties</title>
+      <link>https://littlecodeguy.com/post/2022-06-04-how-to-reset-css-in-oneline/</link>
+      <pubDate>Mon, 04 Jul 2022 09:06:16 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-06-04-how-to-reset-css-in-oneline/</guid>
+      <description>最近發現 css 有個 property 叫「all」，可以用嚟一次過賦值比所有 element’s properties, 非常適合用嚟 reset element。</description>
+    </item>
+    
     <item>
       <title>Javascript 入門：Continue statement</title>
       <link>https://littlecodeguy.com/post/2022-07-03-china-term-of-office/</link>
