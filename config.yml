@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: LittleCodeGuy
-  description: "👨‍💻 曲中作樂 🚀"
+  description: "👨‍💻 曲中作樂，打曲為生 🚀"
   keywords: [Blog, Portfolio]
   author: LittleCodeGuy
   # author: ["Me", "You"] # multiple authors
