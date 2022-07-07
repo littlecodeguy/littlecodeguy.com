@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Wed, 06 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jul 2022 11:08:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript 入門：Object.keys() vs Object.getOwnPropertyNames()</title>
+      <link>https://littlecodeguy.com/post/2022-07-07-civil-service-pay-rise/</link>
+      <pubDate>Thu, 07 Jul 2022 11:08:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-07-civil-service-pay-rise/</guid>
+      <description>Javascript 入門：Object.keys() vs Object.getOwnPropertyNames()</description>
+    </item>
+    
     <item>
       <title>被詛咒嘅村莊</title>
       <link>https://littlecodeguy.com/post/2022-07-06-curse/</link>

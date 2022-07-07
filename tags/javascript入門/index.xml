@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sun, 03 Jul 2022 11:03:47 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/javascript%E5%85%A5%E9%96%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jul 2022 11:08:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/javascript%E5%85%A5%E9%96%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript 入門：Object.keys() vs Object.getOwnPropertyNames()</title>
+      <link>https://littlecodeguy.com/post/2022-07-07-civil-service-pay-rise/</link>
+      <pubDate>Thu, 07 Jul 2022 11:08:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-07-civil-service-pay-rise/</guid>
+      <description>Javascript 入門：Object.keys() vs Object.getOwnPropertyNames()</description>
+    </item>
+    
     <item>
       <title>Javascript 入門：Continue statement</title>
       <link>https://littlecodeguy.com/post/2022-07-03-china-term-of-office/</link>
