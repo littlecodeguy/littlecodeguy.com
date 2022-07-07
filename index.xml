@@ -17,7 +17,7 @@
       <pubDate>Thu, 07 Jul 2022 11:08:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/post/2022-07-07-civil-service-pay-rise/</guid>
-      <description>Javascript 入門：Object.keys() vs Object.getOwnPropertyNames()</description>
+      <description>一般情況用 Object.keys 就可以滿足到返回自定義 property names，但有時你想得到...</description>
     </item>
     
     <item>
