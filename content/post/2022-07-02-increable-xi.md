@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "唔怕比小朋友撞倒？"
-canonicalURL: "https://littlecodeguy.com/post/hk-25th-anniversary"
+canonicalURL: "https://littlecodeguy.com/post/2022-07-02-increable-xi"
 disableShare: false
 disableHLJS: false
 hideSummary: false
