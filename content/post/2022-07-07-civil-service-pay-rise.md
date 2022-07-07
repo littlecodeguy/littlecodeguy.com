@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Javascript 入門：Object.keys() vs Object.getOwnPropertyNames()"
+description: "一般情況用 Object.keys 就可以滿足到返回自定義 property names，但有時你想得到..."
 canonicalURL: "https://littlecodeguy.com/post/2022-07-07-civil-service-pay-rise"
 disableShare: false
 disableHLJS: false
