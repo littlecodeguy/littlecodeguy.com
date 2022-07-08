@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "background-clip: text，可以為文字加上背景圖片。"
+description: "background-clip: text，可以為文字加上背景圖片..."
 canonicalURL: "https://littlecodeguy.com/post/2022-07-08-css-background-text-clip"
 disableShare: false
 disableHLJS: false
