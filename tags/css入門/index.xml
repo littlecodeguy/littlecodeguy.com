@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSS入門 on LittleCodeGuy</title>
+    <link>https://littlecodeguy.com/tags/css%E5%85%A5%E9%96%80/</link>
+    <description>Recent content in CSS入門 on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Fri, 08 Jul 2022 11:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/css%E5%85%A5%E9%96%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS 入門：background-clip: text</title>
+      <link>https://littlecodeguy.com/post/2022-07-08-css-background-text-clip/</link>
+      <pubDate>Fri, 08 Jul 2022 11:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-08-css-background-text-clip/</guid>
+      <description>background-clip: text，可以為文字加上背景圖片。</description>
+    </item>
+    
+  </channel>
+</rss>
