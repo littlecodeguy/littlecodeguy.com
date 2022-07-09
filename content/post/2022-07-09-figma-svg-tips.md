@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "直接 copy & paste SVG 作為 React Component..."
-canonicalURL: "https://littlecodeguy.com/post/2022-07-09-figma-svg-tips.md"
+canonicalURL: "https://littlecodeguy.com/post/2022-07-09-figma-svg-tips"
 disableShare: false
 disableHLJS: false
 hideSummary: false
