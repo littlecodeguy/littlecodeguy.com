@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sat, 09 Jul 2022 11:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 07:30:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript</title>
+      <link>https://littlecodeguy.com/tags/javascript/</link>
+      <pubDate>Sun, 10 Jul 2022 07:30:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCR</title>
+      <link>https://littlecodeguy.com/tags/ocr/</link>
+      <pubDate>Sun, 10 Jul 2022 07:30:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/tags/ocr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Figma小貼士</title>
       <link>https://littlecodeguy.com/tags/figma%E5%B0%8F%E8%B2%BC%E5%A3%AB/</link>

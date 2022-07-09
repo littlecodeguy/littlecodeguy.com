@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OCR on LittleCodeGuy</title>
+    <link>https://littlecodeguy.com/tags/ocr/</link>
+    <description>Recent content in OCR on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Sun, 10 Jul 2022 07:30:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/ocr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 OCR API 修改圖片嘅文字</title>
+      <link>https://littlecodeguy.com/post/2022-07-10-replace-text-in-image/</link>
+      <pubDate>Sun, 10 Jul 2022 07:30:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-10-replace-text-in-image/</guid>
+      <description>喺 browser 修改圖片嘅文字...</description>
+    </item>
+    
+  </channel>
+</rss>
