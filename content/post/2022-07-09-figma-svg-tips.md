@@ -35,7 +35,7 @@ editPost:
 
 今日想介紹一個 Figma 小貼士，除咗 export 圖片，我哋都可以 copy as SVG 之後直接貼到 editor 作為 .svg file 或放入 React component，但前提 designer 要用 vector 而唔係 raster 圖。
 
-```tsx
+```typescript
 export const Logo: FC<SVGProps<SVGSVGElement>> = props => (
   // 貼上 SVG
   <svg
