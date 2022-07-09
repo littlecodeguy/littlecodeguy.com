@@ -2,7 +2,7 @@
 title: "Figma小貼士：複製 SVG"
 date: 2022-07-09T11:00:00+08:00
 draft: false
-tags: ["Figma小貼士"]
+tags: ["Figma小貼士","SVG","React"]
 author: "Me"
 showToc: true
 TocOpen: false
