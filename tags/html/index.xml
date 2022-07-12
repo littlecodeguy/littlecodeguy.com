@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTML on LittleCodeGuy</title>
+    <link>https://littlecodeguy.com/tags/html/</link>
+    <description>Recent content in HTML on LittleCodeGuy</description>
+    <image>
+      <url>https://littlecodeguy.com/images/og.png</url>
+      <link>https://littlecodeguy.com/images/og.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Mon, 11 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML &#43; CSS Progress Bar</title>
+      <link>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</link>
+      <pubDate>Mon, 11 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</guid>
+      <description>大家知唔知原來 HTML 有 progress bar element &amp;lt;progress /&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

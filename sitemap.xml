@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://littlecodeguy.com/tags/css/</loc>
+    <lastmod>2022-07-11T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/html/</loc>
+    <lastmod>2022-07-11T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</loc>
+    <lastmod>2022-07-11T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/</loc>
+    <lastmod>2022-07-11T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/</loc>
+    <lastmod>2022-07-11T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/</loc>
+    <lastmod>2022-07-11T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://littlecodeguy.com/tags/javascript/</loc>
     <lastmod>2022-07-10T07:30:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://littlecodeguy.com/</loc>
-    <lastmod>2022-07-10T07:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://littlecodeguy.com/tags/ocr/</loc>
-    <lastmod>2022-07-10T07:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/post/</loc>
-    <lastmod>2022-07-10T07:30:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/tags/</loc>
     <lastmod>2022-07-10T07:30:00+08:00</lastmod>
   </url>
   
@@ -50,11 +65,6 @@
   <url>
     <loc>https://littlecodeguy.com/tags/svg/</loc>
     <lastmod>2022-07-09T11:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/tags/css/</loc>
-    <lastmod>2022-07-08T11:00:00+08:00</lastmod>
   </url>
   
   <url>
