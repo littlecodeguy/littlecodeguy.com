@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sat, 09 Jul 2022 11:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 CSS 轉換 SVG 顏色</title>
+      <link>https://littlecodeguy.com/post/2022-07-13-css-svg-fill-color/</link>
+      <pubDate>Wed, 13 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-13-css-svg-fill-color/</guid>
+      <description>用 CSS value: currentColor 去改變 SVG fill property...</description>
+    </item>
+    
     <item>
       <title>Figma小貼士：複製 SVG</title>
       <link>https://littlecodeguy.com/post/2022-07-09-figma-svg-tips/</link>

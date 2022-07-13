@@ -10,11 +10,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Mon, 11 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 CSS 轉換 SVG 顏色</title>
+      <link>https://littlecodeguy.com/post/2022-07-13-css-svg-fill-color/</link>
+      <pubDate>Wed, 13 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-13-css-svg-fill-color/</guid>
+      <description>用 CSS value: currentColor 去改變 SVG fill property...</description>
+    </item>
+    
     <item>
       <title>HTML &#43; CSS Progress Bar</title>
       <link>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</link>
-      <pubDate>Mon, 11 Jul 2022 07:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jul 2022 07:00:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</guid>
       <description>大家知唔知原來 HTML 有 progress bar element &amp;lt;progress /&amp;gt;</description>

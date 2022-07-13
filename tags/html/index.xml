@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Mon, 11 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML &#43; CSS Progress Bar</title>
       <link>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</link>
-      <pubDate>Mon, 11 Jul 2022 07:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Jul 2022 07:00:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</guid>
       <description>大家知唔知原來 HTML 有 progress bar element &amp;lt;progress /&amp;gt;</description>
