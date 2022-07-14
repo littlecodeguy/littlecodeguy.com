@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "declare globals 可以喺 window object 自定義 type"
-canonicalURL: "https://littlecodeguy.com/post/2022-07-13-css-svg-fill-color"
+canonicalURL: "https://littlecodeguy.com/post/2022-07-14-declare-global"
 disableShare: false
 disableHLJS: false
 hideSummary: false
