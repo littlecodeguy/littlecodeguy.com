@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://littlecodeguy.com/</loc>
+    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/</loc>
+    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/</loc>
+    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/typescript/</loc>
+    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/typescript%E5%B0%8F%E8%B2%BC%E5%A3%AB/</loc>
+    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/2022-07-14-declare-global/</loc>
+    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://littlecodeguy.com/tags/css/</loc>
     <lastmod>2022-07-13T07:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://littlecodeguy.com/</loc>
-    <lastmod>2022-07-13T07:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/post/</loc>
-    <lastmod>2022-07-13T07:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://littlecodeguy.com/tags/svg/</loc>
-    <lastmod>2022-07-13T07:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/tags/</loc>
     <lastmod>2022-07-13T07:00:00+08:00</lastmod>
   </url>
   
@@ -139,11 +154,6 @@
   
   <url>
     <loc>https://littlecodeguy.com/tags/showmethecode/</loc>
-    <lastmod>2022-07-01T11:03:47+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/tags/typescript/</loc>
     <lastmod>2022-07-01T11:03:47+08:00</lastmod>
   </url>
   
