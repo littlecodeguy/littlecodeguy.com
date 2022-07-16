@@ -68,8 +68,8 @@ params:
       url: "https://github.com/littlecodeguy"
     - name: instagram
       url: "https://instagram.com/littlecodeguy"
-    - name: facebook
-      url: "https://facebook.com/littlecodeguy"
+    # - name: facebook
+    #   url: "https://facebook.com/littlecodeguy"
 
   analytics:
     google:
