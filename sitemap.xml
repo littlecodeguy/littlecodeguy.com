@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://littlecodeguy.com/tags/javascript/</loc>
+    <lastmod>2022-07-17T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/tags/javascript%E5%B0%8F%E8%B2%BC%E5%A3%AB/</loc>
+    <lastmod>2022-07-17T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlecodeguy.com/post/2022-07-17-array-at/</loc>
+    <lastmod>2022-07-17T07:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://littlecodeguy.com/</loc>
-    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+    <lastmod>2022-07-17T07:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://littlecodeguy.com/post/</loc>
-    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+    <lastmod>2022-07-17T07:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://littlecodeguy.com/tags/</loc>
-    <lastmod>2022-07-14T07:00:00+08:00</lastmod>
+    <lastmod>2022-07-17T07:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -55,11 +70,6 @@
   <url>
     <loc>https://littlecodeguy.com/post/2022-07-12-html-css-progress-bar/</loc>
     <lastmod>2022-07-12T07:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlecodeguy.com/tags/javascript/</loc>
-    <lastmod>2022-07-10T07:30:00+08:00</lastmod>
   </url>
   
   <url>

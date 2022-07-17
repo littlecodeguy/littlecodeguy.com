@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Thu, 14 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript小貼士：Array.prototype.at()</title>
+      <link>https://littlecodeguy.com/post/2022-07-17-array-at/</link>
+      <pubDate>Sun, 17 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-17-array-at/</guid>
+      <description>Array 有個新 function at()</description>
+    </item>
+    
     <item>
       <title>Typescript小貼士：Declare globals</title>
       <link>https://littlecodeguy.com/post/2022-07-14-declare-global/</link>
