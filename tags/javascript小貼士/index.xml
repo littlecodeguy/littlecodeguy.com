@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sun, 17 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/javascript%E5%B0%8F%E8%B2%BC%E5%A3%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/javascript%E5%B0%8F%E8%B2%BC%E5%A3%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript小貼士：BigInt</title>
+      <link>https://littlecodeguy.com/post/2022-07-23-bigint/</link>
+      <pubDate>Sat, 23 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-23-bigint/</guid>
+      <description>喺津巴布韋做嘢，一定要識用 BigInt</description>
+    </item>
+    
     <item>
       <title>Javascript小貼士：Array.prototype.at()</title>
       <link>https://littlecodeguy.com/post/2022-07-17-array-at/</link>
