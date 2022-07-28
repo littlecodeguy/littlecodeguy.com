@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sat, 23 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>超超有獎攞</title>
+      <link>https://littlecodeguy.com/post/2022-07-28-ce-award/</link>
+      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-07-28-ce-award/</guid>
+      <description>頒獎又係我，攞獎又係我。</description>
+    </item>
+    
     <item>
       <title>Javascript小貼士：BigInt</title>
       <link>https://littlecodeguy.com/post/2022-07-23-bigint/</link>

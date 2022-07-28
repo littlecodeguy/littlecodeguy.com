@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sat, 23 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drawing</title>
+      <link>https://littlecodeguy.com/tags/drawing/</link>
+      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/tags/drawing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Javascript</title>
       <link>https://littlecodeguy.com/tags/javascript/</link>
@@ -125,15 +134,6 @@
       <pubDate>Wed, 06 Jul 2022 07:00:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/tags/curse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drawing</title>
-      <link>https://littlecodeguy.com/tags/drawing/</link>
-      <pubDate>Wed, 06 Jul 2022 07:00:00 +0800</pubDate>
-      
-      <guid>https://littlecodeguy.com/tags/drawing/</guid>
       <description></description>
     </item>
     
