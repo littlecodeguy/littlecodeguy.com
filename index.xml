@@ -12,6 +12,15 @@
     <language>zh-hk</language>
     <lastBuildDate>Thu, 28 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Typescript小貼士：Type Guard</title>
+      <link>https://littlecodeguy.com/post/2022-08-02-arr-type-guard/</link>
+      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-08-02-arr-type-guard/</guid>
+      <description>Array Manipulation 經常用到 filter() 但 typescript 唔會幫你 infer 個 output type...</description>
+    </item>
+    
+    <item>
       <title>超超有獎攞</title>
       <link>https://littlecodeguy.com/post/2022-07-28-ce-award/</link>
       <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
