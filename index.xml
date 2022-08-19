@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Thu, 28 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>是有種香港人</title>
+      <link>https://littlecodeguy.com/post/2022-08-19-a-kind-of-hker/</link>
+      <pubDate>Fri, 19 Aug 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/post/2022-08-19-a-kind-of-hker/</guid>
+      <description>有些人努力過，但最後方棄，亦有些人承擔了後果。多年過去，放鮮花的人繼續放不下，也有人從不當成一回事。</description>
+    </item>
+    
     <item>
       <title>Typescript小貼士：Type Guard</title>
       <link>https://littlecodeguy.com/post/2022-08-02-arr-type-guard/</link>

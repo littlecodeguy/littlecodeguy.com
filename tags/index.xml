@@ -10,20 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Thu, 28 Jul 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Drawing</title>
-      <link>https://littlecodeguy.com/tags/drawing/</link>
-      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
-      
-      <guid>https://littlecodeguy.com/tags/drawing/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 19 Aug 2022 07:00:00 +0800</lastBuildDate><atom:link href="https://littlecodeguy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typescript</title>
       <link>https://littlecodeguy.com/tags/typescript/</link>
-      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Aug 2022 07:00:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/tags/typescript/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>Typescript小貼士</title>
       <link>https://littlecodeguy.com/tags/typescript%E5%B0%8F%E8%B2%BC%E5%A3%AB/</link>
-      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Aug 2022 07:00:00 +0800</pubDate>
       
       <guid>https://littlecodeguy.com/tags/typescript%E5%B0%8F%E8%B2%BC%E5%A3%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawing</title>
+      <link>https://littlecodeguy.com/tags/drawing/</link>
+      <pubDate>Thu, 28 Jul 2022 07:00:00 +0800</pubDate>
+      
+      <guid>https://littlecodeguy.com/tags/drawing/</guid>
       <description></description>
     </item>
     
